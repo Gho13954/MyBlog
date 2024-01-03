@@ -1,0 +1,15 @@
+G:\c_xm\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.deps.json
+G:\c_xm\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.dll
+G:\c_xm\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.IRepository.pdb
+G:\c_xm\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Model.dll
+G:\c_xm\MyBlog\MyBlog.IRepository\bin\Debug\net5.0\MyBlog.Model.pdb
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.AssemblyReference.cache
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfoInputs.cache
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.AssemblyInfo.cs
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CoreCompileInputs.cache
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.csproj.CopyComplete
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.dll
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\MyBlog.IRepository.pdb
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\ref\MyBlog.IRepository.dll
+G:\c_xm\MyBlog\MyBlog.IRepository\obj\Debug\net5.0\refint\MyBlog.IRepository.dll

@@ -1,0 +1,7 @@
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.csproj.AssemblyReference.cache
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.GeneratedMSBuildEditorConfig.editorconfig
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.AssemblyInfoInputs.cache
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.AssemblyInfo.cs
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.csproj.CoreCompileInputs.cache
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.MvcApplicationPartsAssemblyInfo.cs
+G:\c_xm\MyBlog\MyBlog\obj\Debug\net5.0\WBlog_webapi.MvcApplicationPartsAssemblyInfo.cache

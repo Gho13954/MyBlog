@@ -1,0 +1,15 @@
+G:\c_xm\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.deps.json
+G:\c_xm\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.dll
+G:\c_xm\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.pdb
+G:\c_xm\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.Model.dll
+G:\c_xm\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.Model.pdb
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.AssemblyReference.cache
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfoInputs.cache
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfo.cs
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CoreCompileInputs.cache
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CopyComplete
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.dll
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.pdb
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\ref\MyBlog.IService.dll
+G:\c_xm\MyBlog\MyBlog.IService\obj\Debug\net5.0\refint\MyBlog.IService.dll
